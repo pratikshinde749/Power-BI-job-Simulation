@@ -25,7 +25,7 @@ The purpose of this project was to:
 * Root Cause Identification: Analyzed data to determine causes of gender imbalance and areas for improvement.
 * Insight Delivery: Communicated findings and recommendations effectively to stakeholders.
 
-##Usage
+## Usage
 
 * Clone the repository to your local machine.
 * Install required dependencies for Power BI, if necessary.
