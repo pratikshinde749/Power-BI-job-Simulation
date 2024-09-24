@@ -32,5 +32,14 @@ The purpose of this project was to:
 * Open the Power BI files to explore the dashboards and insights.
 * Review the email communication samples for examples of actionable suggestions.
 
+DASHBOARDS
+
+![Screenshot 2024-05-04 160902](https://github.com/user-attachments/assets/281201bb-709b-4f8a-8a58-bf100d0a778a)
+![Screenshot 2024-05-04 160918](https://github.com/user-attachments/assets/2e53473e-d6d1-4085-b706-5c623a128a21)
+![Screenshot 2024-05-07 160342](https://github.com/user-attachments/assets/f7605fd0-5bee-4e20-86b7-5725d6ac1fc7)
+
+
+
+
 ## Contributors
 Pratik Shinde: Lead analyst and visualization expert.
